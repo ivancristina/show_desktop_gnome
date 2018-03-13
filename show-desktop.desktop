@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Show Desktop
+Icon=show-desktop
+Exec=/home/$USER/show-desktop.sh
